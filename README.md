@@ -7,6 +7,7 @@
 |---|---|
 | tsuzuring-studio.json | Tsuzuring Studio |
 | manga-organizer.json | MangaOrganizer |
+| wav-to-opm.json | WAV to OPM |
 
 ## ファイルの中身
 
