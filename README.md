@@ -6,6 +6,7 @@
 | ファイル | ソフト |
 |---|---|
 | tsuzuring-studio.json | Tsuzuring Studio |
+| manga-organizer.json | MangaOrganizer |
 
 ## ファイルの中身
 
